@@ -1,2 +1,3 @@
 // Code your solution in this file!
-const ;
+const companyName = 'Scuber';
+let 
